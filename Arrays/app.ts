@@ -480,6 +480,22 @@
       
  // }
  // add1(8,5)
+//function hello(callback:any) {
+//     callback("hamza")
+// }
+
+
+// let arrowfunc = (name:string) => {
+//     console.log(`hello ${name}`);
+    
+// }
+
+
+
+
+// hello(arrowfunc)
+
+
 
  // immediately function
 
